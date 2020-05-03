@@ -1,4 +1,4 @@
-<h1> Design Component Framerx Tutorial </h1> 
+<h1> Design Components in Framerx Tutorial </h1> 
 
 <span><h2> Author: Merehan Elamrosy </h2>
  Date: 27/2/2020 </span>
