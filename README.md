@@ -21,4 +21,4 @@
 
 
 <h4> Original Video URL </h4>
-<a href="https://www.framer.com/learn/lesson/design-components/">Framerx Learn<a>
+<a href="https://www.framer.com/learn/lesson/design-components/">https://www.framer.com/learn/lesson/design-components/<a>
