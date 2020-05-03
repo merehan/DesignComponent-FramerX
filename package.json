@@ -1,0 +1,21 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "e93e8eda-deeb-4372-bad0-3e5223dc61fb"
+	},
+	"author": "Merehan Suhiel",
+	"dependencies": {
+		"@framer/benjamin.device": "^1.3.0",
+		"@framer/colebemis.feather-icons": "^1.2.0",
+		"@framer/graz.android-kit": "^1.1.0",
+		"@framer/material-ui.material-ui": "^1.1.0"
+	}
+}
