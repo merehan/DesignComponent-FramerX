@@ -4,7 +4,7 @@
  Date: 27/2/2020 </span>
  
  <span><h4> Project </h4> 
- I created one mobile screen of a profile page with notification cards. The cards include text and images.
+ I created one mobile screen of a profile page with multiple notification cards. The cards include text and images.
  </span>
  
 
